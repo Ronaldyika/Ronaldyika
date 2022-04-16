@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkillTech</title>
+    <link rel="stylesheet" href="./css/ronald.css" />
+</head>
+
+<body>
+    <div id="menu-bar">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </div>
+    <div>
+        <p id="me3" style="background-color: ; width: 10%;"><img src="./images/rebiuld.jpg" / style="height: 15px; width: 30px; border-radius: 50px;"> SkillTech</p>
+    </div>
+    <p2 id="me"><a href="#"><button style="background-color: green;">Login</button></a></p2>
+    <p3 id="me1"><a href="#"><button style="background-color: green;">Register</button></a></p3>
+
+    <div id="register" style="margin-left: 25%; background-color: green; width: 600px; height: 300px;">
+        <h style="background-color: green; text-align: center; color: white;" class="int1">Register</h>
+        <form>
+            <input type="email" name="name" placeholder="email" class="int"><br>
+            <input type="text" name="name" placeholder="first-name" class="int"><br>
+            <input type="text" name="name" placeholder="last-name" class="int"><br>
+            <input type="text" name="name" placeholder="full-name" class="int"><br>
+            <input type="password" name="security" placeholder="password" class="int"><br>
+            <input type="password" name="security" placeholder="repeat-password" class="int"><br>
+            <input type="date" name="date" placeholder="date of birth" class="int"><br>
+        </form>
+        <button class="int1"><a href="#">summit</a></button>
+
+    </div>
+</body>
+
+</html>
