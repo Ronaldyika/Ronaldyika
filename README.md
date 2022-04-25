@@ -7,3 +7,4 @@ register
 #footer
 copyright
 info
+copyright
