@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Screenshot from 2023-03-25 06-57-38](https://user-images.githubusercontent.com/98031269/227699629-01945283-599b-48f5-83f0-1b0060aace59.png)<br>
 am currently learning django, app dev, python<br>
 i'm looking for collaboration with any project related to app dev , and python<br>
-how to reach me: +237651211000 and https://www.linkedin.com/in/ronald-yika ,https://twitter.com/Ronaldyika
+how to reach me: +237651211000 , https://www.linkedin.com/in/ronald-yika and https://twitter.com/Ronaldyika
