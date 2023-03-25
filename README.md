@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...+237651211000 ,https://www.linkedin.com/in/ronald-yika ,https://twitter.com/Ronaldyika
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: pretty funny and cool 
--!#[WallpaperDog-20512971](https://user-images.githubusercontent.com/98031269/227698488-39f0fde6-ebd8-4b85-ac4a-d8d73a81d227.png)
+-!
 
 -->
+![Screenshot from 2023-03-25 06-57-38](https://user-images.githubusercontent.com/98031269/227699629-01945283-599b-48f5-83f0-1b0060aace59.png)
