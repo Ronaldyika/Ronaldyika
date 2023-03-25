@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there am Ronald Yika 👋###I’m currently learning ..django, mobile app dev.,###I’m looking to collaborate on ..any project related to web developement, appdev📫 -How to reach me: ...+237651211000 ,https://www.linkedin.com/in/ronald-yika ,https://twitter.com/Ronaldyika ###- 😄 Pronouns: ...he/him
+
 
 <!--
 **Ronaldyika/Ronaldyika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
