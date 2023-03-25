@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: pretty funny and cool 
 -->
-![WallpaperDog-20512971](https://user-images.githubusercontent.com/98031269/227698080-da3953dc-f23b-43ac-8eb2-84899d8465cb.png)
