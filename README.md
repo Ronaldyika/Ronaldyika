@@ -1,4 +1,4 @@
-Ronaldyika/README.md
+Ronaldyika~Inner Peace/README.md
 <!--**Ronaldyika/Ronaldyika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 - 👋 Hi, I’m @Ronaldyika👋👋👋
 - am passionate about software 
